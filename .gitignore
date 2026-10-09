@@ -1,0 +1,29 @@
+# CCS C compiler build outputs
+*.hex
+*.cof
+*.lst
+*.sym
+*.esym
+*.xsym
+*.err
+*.STA
+*.tre
+*.cod
+*.o
+*.osym
+
+# CCS IDE project/state files (contain local paths and edit logs)
+*.ccspjt
+*.mcp
+*.mcw
+
+# Editor history / backups
+__history/
+__recovery/
+*.~*
+*.bak
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
